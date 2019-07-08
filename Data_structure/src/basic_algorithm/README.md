@@ -11,6 +11,9 @@
 
 * [judge_sign](#judge_sign)
 
+
+* [sum_to_n](#sum_to_n)
+
 ---
 ---
 
@@ -33,7 +36,7 @@
 ---
 
 ### max_val_3
-###### 중요
+#### <몰랐던 부분>
 
 ``if ~ else { if ~ else }`` 줄이기 (번복되는 조건 제거하기)
 
@@ -44,6 +47,15 @@
 
 ### judge_sign
 
-조건문 기본 예제
+``if() ~ else`` 기본 예제
+
+:camel:[Top](#basic_algorithm)
+
+---
+---
+
+### sum_to_n
+
+``while()`` 기본 예제
 
 :camel:[Top](#basic_algorithm)
