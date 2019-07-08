@@ -14,6 +14,11 @@ public class Sum_tester {
 		
 		System.out.println(input_num + "까지의 총 합 : " + sum);
 		
+		System.out.println("-----------------------");
+		
+		sum = Calculator.sum_to_n_print_last_val(input_num);
+		System.out.println(input_num + "까지의 총 합 : " + sum);
+		
 		scanner.close();		
 	}
 }
