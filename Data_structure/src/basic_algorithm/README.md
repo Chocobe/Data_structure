@@ -58,4 +58,6 @@
 
 ``while()`` 기본 예제
 
+``do ~ while()`` 기본 예제
+
 :camel:[Top](#basic_algorithm)

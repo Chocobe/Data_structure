@@ -49,6 +49,18 @@ public class Sum_tester {
 		sum = Calculator.sumof(lhs, rhs);
 		System.out.println(lhs + "과(와) " + rhs + "사이의 정수의 합 : " + sum);
 		
+		print_line();
+		
+		Calculator.sum_only_plus(scanner);		
+		
+		print_line();
+		
+		Calculator.sub_b_a(scanner);
+		
+		print_line();
+		
+		Calculator.print_digit_number(scanner);
+		
 		scanner.close();		
 	}
 	
